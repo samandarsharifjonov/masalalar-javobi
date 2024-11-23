@@ -9,8 +9,10 @@ Masala algoritim.zip formatda saqlangan bo‘lib, ichida turli masalalar fayl ko
 - Dasturlashni o‘rganayotgan yoki o‘z bilimini mustahkamlashni xohlaganlar uchun foydali bo‘lishi mumkin.
 
 ## Foydalanish
-1. algoritim.zip fayilini .zip shaklida yuklab oling yoki repozitoryni klonlang.
-2. yuklab olingan .zip fayilni .zip holatidan chiqaring.
+1. [![Yuklab olish](https://img.shields.io/badge/Yuklab%20olish-GitHubda-blue?style=for-the-badge&logo=github)](https://github.com/samandarsharifjonov/masalalar-javobi/tree/main) Yuklab olish tugmasini bosing.
+2. yuklab olingan "masalalar-javobi-main" fayili ichiga kiring.
+3. algoritim.zip fayli .zip holatidan chiqaring.
+   
 
 > ⚠️ **Diqqat:** Ushbu masalalardan foydalanishda, har bir fayilni ichidagi kodni sinchiklab ko‘rib chiqing va uni o'zingiz yechgan masala bilan solishtitring, tayyor yechimlardan foydalanmang, bu sizni kuchsiz va blimsiz qilib qo'yadi. 
 
