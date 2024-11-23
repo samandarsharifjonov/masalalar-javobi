@@ -11,7 +11,8 @@ Masala algoritim.zip formatda saqlangan bo‘lib, ichida turli masalalar fayl ko
 - Dasturlashni o‘rganayotgan yoki o‘z bilimini mustahkamlashni xohlaganlar uchun foydali bo‘lishi mumkin.
 
 ## Foydalanish
-1. [![Yuklab olish](https://github.com/samandarsharifjonov/masalalar-javobi/raw/refs/heads/main/algoritim.zip) yuklab olish tugmasini bosing.
+1. [![Yuklab olish](https://img.shields.io/badge/Yuklab%20olish-GitHubda-blue?style=for-the-badge&logo=github)](https://github.com/samandarsharifjonov/masalalar-javobi/raw/refs/heads/main/algoritim.zip)
+ yuklab olish tugmasini bosing.
 2. yuklab olingan "algoritim.zip" faylini ichiga kiring. 
 3. algoritim.zip faylini .zip holatidan chiqaring.
    
