@@ -1,4 +1,4 @@
-<p><strong style="color: red;"> ℹ️Iltimos oxirigacha o'qib chiqing!</strong></p>
+<p><strong style="color: red;"> ℹ️ Iltimos oxirigacha o'qib chiqing!</strong></p>
 
 # Java dasturlash tilida yechgan masalalarim to'plami
 
